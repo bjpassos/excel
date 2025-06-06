@@ -19,7 +19,7 @@ Fórmulas e Lógica Aplicadas
     - Moderado: 1,15
     - Conservador: 1,05
 
-- As fórmulas utilizam a função SE() do Excel, com múltiplas condições aninhadas.
+- As fórmulas utilizam a função SE() do Excel, com múltiplas condições alinhadas.
 
 Observações Importantes
 - Os valores contidos na planilha são meramente ilustrativos e não representam recomendações financeiras reais.
